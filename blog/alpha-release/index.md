@@ -2,6 +2,9 @@
 title: "Infa Chrome Extension Alpha Release"
 date: 2024-05
 author: "Infa"
+description: "Elevate your design system with Infa's Chrome Extension, providing real-time visualization of design system usage."
+tags: ["Design System", "Chrome Extension", "Alpha Release"]
+image: "https://uploads-ssl.webflow.com/662083e7dc8f3fe8497fab87/664422b07fc9ab1182fe3f87_Media.png"
 ---
 
 # Elevate Your Design System Inventory and Visualize Design System Implementation with Infa’s latest Chrome Extension
