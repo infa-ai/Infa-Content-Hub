@@ -46,3 +46,5 @@ Take GitHub, for instance. With Infa, as users navigate through GitHub, they can
 ### Getting Started
 
 To begin using the Infa Chrome Extension, sign up on the Infa.ai website to receive a link to the extension. Explore community boards or create new ones, and start adding and tagging components directly within your product’s web pages.
+
+[Install Chrome Extension](https://chromewebstore.google.com/detail/infaai/ncanmjeakblmkcekchhmlngihnlhbmfd)
