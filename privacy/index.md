@@ -1,4 +1,13 @@
-###### Introduction
+---
+title: "Infa | Privacy Policy"
+date: 2024-05
+author: "Infa"
+description: "Read Infa's Privacy Policy detailing how we handle personal information collected through our services, including our Chrome Extension."
+tags: ["Privacy"]
+image: "https://api.infa.ai/storage/v1/object/public/assets/InfaAiSocialMediaPreview.png"
+---
+
+### Privacy
 
 Effective date: May 26, 2024
 
